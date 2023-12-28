@@ -1,0 +1,10 @@
+Mi primer progama en node
+
+```
+Options:
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
+  -b, --base     Base numérica para obtener la tabla         [number] [required]
+  -u, --until    Multiplica hasta este número             [number] [default: 10]
+  -l, --list     Muestra la tabla en consola           [boolean] [default: true]
+```
